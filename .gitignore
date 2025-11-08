@@ -1,0 +1,11 @@
+# Compiled output files
+*.exe
+*.out
+*.o
+*.class
+
+# Editor/IDE temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
