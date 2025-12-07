@@ -1,8 +1,8 @@
 /*
-    Problem Code: Two Sum
+    Problem Code: two-sum
+    Problem Name: Two Sum
     Problem Link: https://leetcode.com/problems/two-sum/
     Description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-
  */
 #include <stdio.h>
 #include <stdlib.h>  
