@@ -15,5 +15,8 @@ ___
 <a href="https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=alrifatsabbir" target="blank"><img align="center" src="https://vjudge.net/static/bundle/72c318000fd40d15a16e.ico" alt="alrifatsabbir" height="30" width="40"/></a>
 ___
 ### 👨‍💻 Contestant at: 
-<a href="https://icpc.global/" target="blank"><img align="center" src="https://icpc.global/icpc-logo.png" height="40" width="80"/></a>
-<a href="https://cse.wub.edu.bd/main/wub_club_details/7" target="blank"><img align="center" src="https://cse.wub.edu.bd/assets/images/wub-logo_sm.png" height="40" width="120"/></a>
+<a href="https://icpc.global/" target="blank"><img align="center" src="https://icpc.global/icpc-logo.png" height="50" width="80"/></a>
+<a href="https://cse.wub.edu.bd/main/wub_club_details/7" target="blank"><img align="center" src="https://cse.wub.edu.bd/assets/images/wub-logo_sm.png" height="50" width="120"/></a>
+<a href="https://codeforces.com/profile/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alrifatsabbir" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/alrifatsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alrifatsabbir" height="40" width="40" /></a>
+___
