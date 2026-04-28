@@ -1,4 +1,4 @@
-// Exchange value in two without using third
+// Exchange value in two variable without using third variable
 #include <bits/stdc++.h>
 using namespace std;
 
