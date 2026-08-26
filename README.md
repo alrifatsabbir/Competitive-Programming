@@ -33,7 +33,7 @@ ___
 
 <div align="center">
   
-[![Most Used Langs](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts)](https://alrifatsabbir.me)
+[![Most Used Langs](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,rust)](https://alrifatsabbir.me)
 
 </div>
 
