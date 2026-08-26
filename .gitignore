@@ -3,9 +3,11 @@
 *.out
 *.o
 *.class
+*.pdb
 
 # Editor/IDE temporary files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
