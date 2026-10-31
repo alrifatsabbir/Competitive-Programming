@@ -1,3 +1,12 @@
+/*
+    Problem Code- 2261B
+    Problem Name- The capital of France?
+    Problem Link- https://codeforces.com/problemset/problem/2261/B
+    Description- Obesiti may not know the capital of France, but he knows that France has a lot of restaurants. They are arranged in a row n restaurants. Rating
+    i-th restaurant is equal to ai. Obesity can change restaurant ratings using her special power. In one operation, Obesity selects two adjacent restaurants. If their 
+    ratings are equal, nothing happens. Otherwise, the rating of the restaurant with the lower rating is increased by1.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
