@@ -13,6 +13,8 @@
 using namespace std;
 
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     string words;
     cin >> words;
     set<char> unique_chars(words.begin(), words.end());
@@ -21,4 +23,5 @@ int main(){
     }else{
         cout << "IGNORE HIM!"<<endl;
     }
+    return 0;
 }
